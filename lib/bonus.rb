@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-epic_tragedy[:hero][]
+epic_tragedy[:patriarch][:hero][status:] = "dead"
 
   
 
